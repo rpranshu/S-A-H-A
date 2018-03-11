@@ -10,4 +10,4 @@ Why not? :)
 Cmd + TAB is too much of a task, don't you agree?
 
 # Errors?
-![Logcat or GTFO](https://raw.githubusercontent.com/rpranshu/S-A-H-A/master/LCOGTFO.jpg)
+![Logcat or GTFO](https://raw.githubusercontent.com/rpranshu/S-A-H-A/master/LCOGTFO.png)
